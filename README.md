@@ -16,4 +16,4 @@ Obviously, it is highly possible that I will end up changing parts of the code a
 
 Code written from scratch by **Daniel Palacio**.
 
-Explosion image by **Jaroslaw Kwoczala** - *Unsplash.com* (https://unsplash.com/photos/ynwGXMkpYcY)
+Thermometer image by **Jaroslaw Kwoczala** - *Unsplash.com* (https://unsplash.com/photos/ynwGXMkpYcY)
